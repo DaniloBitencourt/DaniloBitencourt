@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaniloBitencourt
 - 👀 I’m interested in artificial intelligence, database management and web development
 - 🌱 I’m currently learning many kinds of tecnologys in web development and database management
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: danilo300600@gmail.com
 
 <!---
