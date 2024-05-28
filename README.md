@@ -4,10 +4,12 @@
 - 📚 No momento estou me atendo a estudar tecnologias relacionadas a isso, como os frameworks Flutter e Angular por exemplo.
 - Espero que goste do meu perfil!
 
+<!--
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloBitencourt&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
+-->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBitencourt&layout=compact&langs_count=4&card_width=280" />
 </a>
