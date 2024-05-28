@@ -2,6 +2,7 @@
 - 🧑‍🎓  Olá! sou Danilo Bitencourt, graduando em Engenharia de Computação pela Universidade Federal de Itajubá!
 - 🧑‍💻 Atualmente estou em busca de estágio na área de Desenvolvimento, back end, front end, full stack e mobile.
 - 📚 No momento estou me atendo a estudar tecnologias relacionadas a isso, como os frameworks Flutter e Angular por exemplo.
+- Espero que goste do meu perfil!
 
 #
 [![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloBitencourt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
