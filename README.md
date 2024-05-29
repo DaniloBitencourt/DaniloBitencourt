@@ -11,7 +11,7 @@
 </a>
 -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBitencourt&layout=compact&langs_count=4&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBitencourt&layout=compact&card_width=280" />
 </a>
 
 
