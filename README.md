@@ -1,6 +1,6 @@
 #
 - 🧑‍🎓  Olá! sou Danilo Bitencourt, graduando em Engenharia de Computação pela Universidade Federal de Itajubá!
-- 🧑‍💻 Atualmente estou em busca de estágio na área de Desenvolvimento, back end, front end, full stack e mobile.
+- 🧑‍💻 Atualmente estou em busca de estágio na área de Desenvolvimento, back end, front end, full stack, mobile e áreas correlatas de computação.
 - 📚 No momento estou me atendo a estudar tecnologias relacionadas a isso, como os frameworks Flutter e Angular por exemplo.
 - Espero que goste do meu perfil!
 
